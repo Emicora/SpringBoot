@@ -1,6 +1,6 @@
-package org.example.persona.repositories;
+package com.example.inicial1.repositories;
 
-import org.example.persona.entities.Autor;
+import com.example.inicial1.entities.Autor;
 import org.springframework.stereotype.Repository;
 
 @Repository

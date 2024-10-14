@@ -1,9 +1,9 @@
-package org.example.persona.services;
+package com.example.inicial1.services;
 
+
+import com.example.inicial1.entities.Base;
+import com.example.inicial1.repositories.BaseRepository;
 import jakarta.transaction.Transactional;
-import org.example.persona.entities.Base;
-import org.example.persona.entities.Persona;
-import org.example.persona.repositories.BaseRepository;
 
 import java.io.Serializable;
 import java.util.List;

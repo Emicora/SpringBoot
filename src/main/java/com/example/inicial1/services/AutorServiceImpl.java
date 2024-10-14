@@ -1,8 +1,9 @@
-package org.example.persona.services;
+package com.example.inicial1.services;
 
-import org.example.persona.entities.Autor;
-import org.example.persona.repositories.AutorRepository;
-import org.example.persona.repositories.BaseRepository;
+
+import com.example.inicial1.entities.Autor;
+import com.example.inicial1.repositories.AutorRepository;
+import com.example.inicial1.repositories.BaseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

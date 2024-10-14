@@ -1,6 +1,7 @@
-package org.example.persona.services;
+package com.example.inicial1.services;
 
-import org.example.persona.entities.Persona;
+
+import com.example.inicial1.entities.Persona;
 
 public interface PersonaService extends BaseService<Persona, Long> {
 

@@ -1,7 +1,8 @@
-package org.example.persona.controllers;
+package com.example.inicial1.controllers;
 
-import org.example.persona.entities.Persona;
-import org.example.persona.services.PersonaServiceImpl;
+
+import com.example.inicial1.entities.Persona;
+import com.example.inicial1.services.PersonaServiceImpl;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

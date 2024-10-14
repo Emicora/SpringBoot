@@ -1,4 +1,4 @@
-package org.example.persona.entities;
+package com.example.inicial1.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
